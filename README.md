@@ -1,5 +1,10 @@
 # jb_project
 
+This analysis shows the main strengths and weaknesses of Boston Celtics guard/foward Jaylen Brown as of the 2022-23 season. It also shows how his performance has changed since entering the league in 2016. 
+
+
+Glossary: 
+
 Field goal: A goal scored while the clock is running and ball is in play. 
 Point: When a player scores a field goal or free throw. 
 Rebound: When a ball is retrieved from a missed shot
@@ -16,7 +21,6 @@ BLK: A block, when a field goal attempt is blocked.
 
 Transition: A situation when a team regains posession of the ball after playing defense 
   then moves the ball up the court before either team is able to get in position for plays. 
-Points per transition posession: The average number of points generated per gained posession. 
 
 Turnover: When a player loses posession of the ball to the opposing team before a shot attempt is made. 
 
