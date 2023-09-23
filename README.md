@@ -22,6 +22,8 @@ BLK: A block, when a field goal attempt is blocked.
 Transition: A situation when a team regains posession of the ball after playing defense 
   then moves the ball up the court before either team is able to get in position for plays. 
 
+Defensive win shares: A measure of how much a team's defensive ability improves due to a player, scaled so that one defensive win share equals to one win contributed to the team's record. 
+
 Turnover: When a player loses posession of the ball to the opposing team before a shot attempt is made. 
 
 Regular season: The majority of the season, each team plays 82 games. 
